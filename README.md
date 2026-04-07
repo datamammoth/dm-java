@@ -1,6 +1,6 @@
 # DataMammoth Java SDK
 
-Official Java client for the [DataMammoth API v2](https://data-mammoth.com/api-docs).
+Official Java client for the [DataMammoth API v2](https://data-mammoth.com/api-docs/reference).
 
 > **Status**: Under development. Not yet published to Maven Central.
 
